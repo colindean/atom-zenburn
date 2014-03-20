@@ -3,9 +3,17 @@
   "theme": "syntax",
   "version": "1.0.1",
   "description": "Low contrast theme for long coding sessions, e.g. work",
-  "repository": "https://github.com/colindean/atom-zenburn",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/colindean/atom-zenburn"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
+  },
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/colindean/atom-zenburn",
+  "bugs": {
+    "url": "https://github.com/colindean/atom-zenburn/issues"
   }
 }
