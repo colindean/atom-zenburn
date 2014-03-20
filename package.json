@@ -1,7 +1,7 @@
 {
   "name": "zenburn",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Low contrast theme for long coding sessions, e.g. work",
   "repository": "https://github.com/colindean/atom-zenburn",
   "license": "MIT",
