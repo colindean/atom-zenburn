@@ -9,7 +9,7 @@
   },
   "license": "MIT",
   "engines": {
-    "atom": ">=0.157.0"
+    "atom": ">=0.194.0"
   },
   "readmeFilename": "README.md",
   "homepage": "https://github.com/colindean/atom-zenburn",
