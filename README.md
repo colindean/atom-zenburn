@@ -19,3 +19,8 @@ I've not tested it with anything except Ruby and Markdown, and both seem to
 work fine. Because it's a conversion theme, everything that was supported in
 TextMate should be supported in Atom.
 
+## Publishing
+
+To release a new version, ensure that everything is set on master and do `apm publish`.
+
+If you forget and manually tag, use `apm publish -t <tag>`.
