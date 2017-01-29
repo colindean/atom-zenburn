@@ -1,7 +1,7 @@
 {
   "name": "zenburn",
   "theme": "syntax",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "Low contrast theme for long coding sessions, e.g. work",
   "repository": {
     "type": "git",
