@@ -1,3 +1,5 @@
+:warning: This is unmaintained, as I no longer use Atom regularly. PR fixes welcome but I make no promises as to how quickly I can produce releases.
+
 # zenburn theme
 
 [Zenburn](http://slinky.imukuppi.org/zenburnpage/) is a low-contrast theme meant
