@@ -1,4 +1,4 @@
-:warning: This is unmaintained, as I no longer use Atom regularly. PR fixes welcome but I make no promises as to how quickly I can produce releases.
+:warning: This is EOL as I no longer use Atom and Atom is EOL as of December 2022.
 
 # zenburn theme
 
